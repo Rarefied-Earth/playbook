@@ -4,7 +4,7 @@ The publicly-shareable subset of how [Rarefied Earth](https://rarefied.earth) op
 
 ## What this is
 
-Rarefied Earth is a one-person Florida civil engineering consultancy (Earth Evocation Inc., d/b/a Rarefied Earth) that develops AI systems for civil and construction clients. Engineering identity is primary; AI capability is the multiplier on top.
+Rarefied Earth is a one-person Florida AI-systems implementation firm (Earth Evocation Inc., d/b/a Rarefied Earth) that builds AI-augmented workflow automation and the operating substrate companies run on. The AI-systems work leads; civil-engineering credentials (EI, MSCE, peer-reviewed coauthor) are the trust wedge in heavy-civil and construction-adjacent verticals; Build the Company is the productized layer.
 
 This repository is the curated public face of the firm's internal operating documents. It exists for three reasons:
 

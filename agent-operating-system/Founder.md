@@ -74,7 +74,7 @@ STEM Volunteer Sponsor, USF Department of Civil & Environmental Engineering (201
 
 ## Three-line bio (for short-form contexts)
 
-> Joseph Scott is the founder of Rarefied Earth, a Tampa-based civil engineering firm that develops its own AI systems for civil and construction clients. A licensed Engineer Intern with an MSCE from the University of South Florida and a coauthor on peer-reviewed prestressed-concrete restoration research, he combines bridge engineering, forensic investigation, and software development to build practical decision systems for the trades that already do the work.
+> Joseph Scott is the founder of Rarefied Earth, a St. Petersburg-based AI-systems implementation firm for operating companies. A Florida Engineer Intern with an MSCE from the University of South Florida and a coauthor on peer-reviewed prestressed-concrete restoration research, he applies bridge-engineering, forensic-investigation, and software-development discipline to build production AI systems for the companies that actually run things.
 
 ## One-line bio (for footer/sig contexts)
 

@@ -4,6 +4,13 @@ All notable changes to the Rarefied Earth playbook are documented here.
 
 The format is loosely based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/), simplified for a small curated repository. Versions are documentation versions, not semantic software versions; bumps reflect when meaningful new content lands.
 
+## v0.3 — 2026-06-09
+
+### Changed
+
+- Positioning brought to the firm's three-layer model across all public docs: AI-systems implementation firm for operating SMBs (lead), civil-engineering credentials as the vertical trust wedge (specialty), Build the Company as the productized layer. Affects `README.md`, `agent-operating-system/Agent_Charter.md` § 1, `agent-operating-system/Brand_Identity.md` (positioning thesis + tagline), and `agent-operating-system/Founder.md` (three-line bio).
+- Canonical tagline updated to "Engineering-grade AI for operating companies." The prior tagline ("Civil engineering, with the systems built in.") is retained as the civil-vertical alternate.
+
 ## v0.2 — 2026-04-29
 
 ### Added

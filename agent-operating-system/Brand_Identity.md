@@ -18,9 +18,13 @@
 
 ## Positioning thesis
 
-Rarefied Earth is a **civil engineering firm that develops its own AI systems**.
+Rarefied Earth is an **AI-systems implementation firm for operating SMBs, run with civil-engineering discipline**. Three layers, one identity:
 
-Identity order matters. The firm's engineers come first. The AI-systems capability is the multiplier on top, not the headline. Engineering judgment is sold to clients in the construction industry, and the firm builds the software that operationalizes that judgment internally rather than outsourcing or subcontracting that piece.
+1. **Top layer (broad):** AI-augmented workflow automation, agent systems, and the operating substrate companies run on. This is the lead framing on every client-facing artifact.
+2. **Middle layer (specialty):** civil-engineering credentials (EI, MSCE, peer-reviewed coauthor) create asymmetric trust in heavy-civil and construction-adjacent verticals. The credentials are a wedge, not a fence; they buy domain trust where they apply and do not constrain the market where they don't.
+3. **Bottom layer (productized):** Build the Company, a deployable operating-substrate package, field-tested on Rarefied Earth itself before any client installation.
+
+The layers compound; they don't compete. Lead with the broad framing, qualify with the specialty when the vertical makes it relevant, surface the productized layer as leverage.
 
 The distinctive position rests on the founder's combination (see `Founder.md`):
 
@@ -33,15 +37,17 @@ This order is rare. Most engineers can't deploy a Linux service. Most software p
 
 **What this looks like in client work:** engineering deliverables that include custom internal tools, AI-assisted workflows, document-intake automation, decision-support dashboards, field-data ingestion pipelines, and bid-leveling / spec-search systems. Built specifically for civil and construction firms with real workflows and real document chaos. Scoped and built by a civil engineer who knows what construction estimating, scheduling, and field operations actually look like.
 
-**What it is NOT:** a generic "AI strategy" practice; an outsourced dev shop; a body-shop staffing model; a "we do everything" generalist consultancy. Buyers should expect to be talking to a civil engineer with software-build capability, not to a software company with construction-industry talking points.
+**What it is NOT:** a generic "AI strategy" practice; an outsourced dev shop; a body-shop staffing model; a "we do everything" generalist consultancy. Buyers should expect to be talking to an engineer who ships production software, not to a software company with industry talking points.
 
 ## Tagline
 
-**`Civil engineering, with the systems built in.`**
+**`Engineering-grade AI for operating companies.`**
 
-Six words. Period at the end. Reads as a complete sentence, not a slogan. Encodes the positioning thesis directly: *Civil engineering* (the identity) *with the systems built in* (the multiplier, in the same breath).
+Period at the end. Reads as a complete sentence, not a slogan. Encodes the positioning thesis directly: *Engineering-grade* (the credential wedge) *AI* (the work) *for operating companies* (the market).
 
 Use everywhere the firm name is introduced for the first time: page `<title>` tags, business card, capability statement header, email-signature secondary line, deck cover, letterhead sub-line.
+
+**Civil-vertical alternate** (used in civil/construction-vertical artifacts where the specialty layer leads): *Civil engineering, with the systems built in.*
 
 ## Brand direction: Engineering-Editorial
 
@@ -114,4 +120,4 @@ The logo asset files themselves are NOT included in this public repository. The 
 
 This file is a curated public version of the firm's internal brand identity document. Updates land here through the `re-playbook-sync` workflow only after passing sanitization checks. The internal master copy may evolve faster than this public version reflects.
 
-Last meaningful update: 2026-04-29 (initial public publication; locked Engineering-Editorial direction, PMS 540 navy + PMS Cool Gray 9 steel + PMS 7504 warm tan accent palette, free Google Fonts typography stack, "Civil engineering, with the systems built in." tagline).
+Last meaningful update: 2026-06-09 (positioning thesis and tagline brought to the three-layer model and "Engineering-grade AI for operating companies." canonical tagline; the 2026-04-29 civil tagline retained as the civil-vertical alternate). Earlier 2026-04-29: initial public publication; locked Engineering-Editorial direction, PMS 540 navy + PMS Cool Gray 9 steel + PMS 7504 warm tan accent palette, free Google Fonts typography stack.
