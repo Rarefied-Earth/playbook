@@ -22,7 +22,7 @@ If the recipient writes like an engineer, write like an engineer. If they write 
 
 ## Default voice (when there's no incoming message — cold outreach, first contact)
 
-Engineer-to-engineer. Plain-spoken. Operationally specific. Civil-engineering credibility underneath, applied AI/automation work on top.
+Engineer-to-engineer. Plain-spoken. Operationally specific. Lead with the AI-systems work; surface the civil-engineering credentials as the trust wedge when the recipient's vertical makes them relevant.
 
 - **First person:** "I" (singular). Joe is a sole proprietor. Never "we" unless on behalf of a multi-person team that doesn't yet exist.
 - **No marketing register.** No "leverage," no "synergy," no "value proposition," no "stakeholder," no "innovative," no "cutting-edge."
